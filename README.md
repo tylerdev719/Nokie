@@ -8,10 +8,14 @@
 [![Donate](https://img.shields.io/badge/Donate-PayPal-%2300457C?logo=paypal)](https://paypal.me/tylerdev719)
 <!-- Email -->
 
-
+## **Definition**
 **Nokie**: (**adj.**) - meaning Not Okay. (Nokie is a contraction of Not Okay)
+
 **Nokie**: (**v.**) - meaning to not be okay. ('I am nokie' or 'I am not okay')
+
 **Nokie**: (**n.**) - meaning a person who is not okay. ('I am a nokie')
+
+## **About**
 
 **Nokie** is a Full Stack Web Application that allows users to anonymously share their feelings and thoughts with others. Users can create posts, comment on posts, and like posts. Users can also search for posts by keyword or by user. Users can also view their own posts and comments.
 
